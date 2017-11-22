@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">  
+  <Ad>
+    <ImageUrl>~/Images/nus-singapore.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Business Camp</AlternateText>
+    <Impressions>150</Impressions>    
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/AS6.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>AS</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/banner1.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>NUS-JTC INDUSTRIAL INFRASTRUCTURE INNOVATION CENTREM</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/banner7.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Graduation Day</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Bizad-camp-1.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Business Camp</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/Bizad-camp-1.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Business Camp</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/resources-and-policies-sub2.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Sports</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+</Advertisements>
